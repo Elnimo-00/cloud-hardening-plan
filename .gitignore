@@ -1,0 +1,6 @@
+.DS_Store
+*.pem
+*.rendered.yaml
+kubeconfig
+.env
+.~lock.*#
